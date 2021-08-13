@@ -1,2 +1,2 @@
-# data-science-project-1
+# project_classification
 loan prediction
